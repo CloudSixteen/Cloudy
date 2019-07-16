@@ -1,0 +1,6 @@
+settings:
+  token: ''
+  prefix: '!'
+  nameBot: 'Cloudy'
+  activity: '| Use !help'
+  channelId: ''
