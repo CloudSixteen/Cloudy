@@ -38,7 +38,7 @@
         "@types/mongoose": "^5.5.6",
         "discord.js": "^11.3.2",
         "mongodb": "^3.2.7",
-        "mongoose": "^5.6.1",
+        "mongoose": "^5.7.5",
         "yamljs": "^0.3.0"
     }
 }
