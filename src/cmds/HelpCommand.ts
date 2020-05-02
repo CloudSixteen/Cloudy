@@ -39,7 +39,7 @@ class HelpCommand extends BaseCommand {
                     text: "© Cloud Sixteen"
                 }
             }
-        });
+        }).catch(() => message.reply("Cannot send a direct message to you, are your DMs disabled?"));
 
         message.reply("I have sent you a PM with my available commands.");
     }
